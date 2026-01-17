@@ -14,7 +14,7 @@ JAVA
 
 Email: fot315@naver.com
 
-<a href="https://hongmin12.github.io" target="_blank">
+<a href="https://hongmin12.github.io" target="blank">
   🌐 포트폴리오 바로가기
 </a>
 
