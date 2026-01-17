@@ -14,9 +14,7 @@ JAVA
 
 Email: fot315@naver.com
 
-<a href="https://hongmin12.github.io" target="blank">
-  🌐 포트폴리오 바로가기
-</a>
+🔗 포트폴리오 : https://hongmin12.github.io
 
 <!--
 **hongmin12/hongmin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
