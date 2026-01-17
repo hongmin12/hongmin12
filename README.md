@@ -1,12 +1,20 @@
-# 정홍민
+✨ About Me
 
-<p align="center">
-  <a href="https://hongmin12.github.io"><b>🌐 Portfolio</b></a>
-</p>
+웹 기반 포트폴리오 프로젝트
 
-## Skills
-- HTML / CSS / JS
-- Bootstrap
+HTML, CSS, JavaScript 중심
+
+Bootstrap 템플릿 커스터마이징
+
+🛠 Tech Stack
+
+JAVA
+
+📬 Contact
+
+Email: fot315@naver.com
+
+포트폴리오 : hongmin12.github.io
 
 <!--
 **hongmin12/hongmin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
