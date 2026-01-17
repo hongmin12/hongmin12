@@ -1,4 +1,12 @@
-## Hi there 👋
+# 정홍민
+
+<p align="center">
+  <a href="https://aaaa.github.io"><b>🌐 Portfolio</b></a>
+</p>
+
+## Skills
+- HTML / CSS / JS
+- Bootstrap
 
 <!--
 **hongmin12/hongmin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
