@@ -24,7 +24,7 @@
 
 - Email: fot315@naver.com
 
-- Portfolio : https://hongmin12.github.io
+<!-- - Portfolio : https://hongmin12.github.io -->
 
 🛠 Skills
 
